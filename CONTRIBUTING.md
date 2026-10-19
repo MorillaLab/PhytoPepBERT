@@ -1,4 +1,4 @@
-# Contributing to PeptideBERT
+# Contributing to PhytoPepBERT
 
 Thanks for your interest — this is a small research codebase, and contributions of
 any size (typo fixes, additional tests, replication runs, new baselines) are welcome.
@@ -17,8 +17,8 @@ any size (typo fixes, additional tests, replication runs, new baselines) are wel
 ## Development setup
 
 ```bash
-git clone https://github.com/MorillaLab/PeptideBERT.git
-cd PeptideBERT
+git clone https://github.com/MorillaLab/PhytoPepPepBERT.git
+cd PhytoPepBERT
 pip install -r requirements.txt
 python3 -m pytest tests/
 ```
