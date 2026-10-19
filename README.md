@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/trains%20on-laptop%20CPU-success" alt="CPU only">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue" alt="python">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-blue.svg"/></a>
-  <img src="https://img.shields.io/badge/license-GPL3.0-lightgrey" alt="license">
 </p>
 
 <p align="center">
