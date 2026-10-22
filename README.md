@@ -269,12 +269,16 @@ The ESM-2 arm adds `torch` and `fair-esm` plus model-hub access.
 ## Citation
 
 ```bibtex
-@article{morilla2026phytopepbert,
-  title   = {What does domain-specific pretraining buy? A 170,000-parameter
-             plant peptide language model against the ESM-2 scaling curve},
-  author  = {Morilla, Ian},
-  year    = {2026},
-  note    = {Preprint}
+@article {Vomo-Donfack2026.10.19.760098,
+	author = {Vomo-Donfack, Kelly Larissa and Aberbache, Melissa and Cantez, Ali and Hoszu, Adryel and Ginot, Gregory and Gonzalez Doblas, Veronica and Morilla, Ian},
+	title = {What does domain-specific pretraining buy? A 170,000-parameter plant peptide language model against the ESM-2 scaling curve},
+	elocation-id = {2026.10.19.760098},
+	year = {2026},
+	doi = {10.64898/2026.10.19.760098},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2026/10/20/2026.10.19.760098},
+	eprint = {https://www.biorxiv.org/content/early/2026/10/20/2026.10.19.760098.full.pdf},
+	journal = {bioRxiv}
 }
 ```
 
