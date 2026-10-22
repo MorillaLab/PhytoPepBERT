@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/DL%20framework-none-success" alt="no deep-learning framework">
   <img src="https://img.shields.io/badge/trains%20on-laptop%20CPU-success" alt="CPU only">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue" alt="python">
+  <a href="biorXiv"><img src="https://img.shields.io/badge/biorxiv-blue.svg"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-blue.svg"/></a>
 </p>
 
@@ -272,11 +273,9 @@ The ESM-2 arm adds `torch` and `fair-esm` plus model-hub access.
 @article {Vomo-Donfack2026.10.19.760098,
 	author = {Vomo-Donfack, Kelly Larissa and Aberbache, Melissa and Cantez, Ali and Hoszu, Adryel and Ginot, Gregory and Gonzalez Doblas, Veronica and Morilla, Ian},
 	title = {What does domain-specific pretraining buy? A 170,000-parameter plant peptide language model against the ESM-2 scaling curve},
-	elocation-id = {2026.10.19.760098},
 	year = {2026},
 	doi = {10.64898/2026.10.19.760098},
 	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2026/10/20/2026.10.19.760098},
 	eprint = {https://www.biorxiv.org/content/early/2026/10/20/2026.10.19.760098.full.pdf},
 	journal = {bioRxiv}
 }
