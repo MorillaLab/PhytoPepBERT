@@ -7,14 +7,22 @@
   exactly where that runs out.</strong>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/parameters-169%2C567-c0392b" alt="parameters">
   <img src="https://img.shields.io/badge/DL%20framework-none-success" alt="no deep-learning framework">
   <img src="https://img.shields.io/badge/trains%20on-laptop%20CPU-success" alt="CPU only">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue" alt="python">
-  <a href="doi"><img src="https://img.shields.io/badge/biorXiv-10.64898/2026.10.19.760098-B31B1B.svg"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-blue.svg"/></a>
+
+  <a href="https://doi.org/10.64898/2026.10.19.760098">
+    <img src="https://img.shields.io/badge/bioRxiv-10.64898%2F2026.10.19.760098-B31B1B.svg" alt="bioRxiv DOI">
+  </a>
+
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL_v3-blue.svg" alt="License GPL v3">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/corpus-1%2C907%20real%20UniProtKB-2980b9" alt="corpus">
